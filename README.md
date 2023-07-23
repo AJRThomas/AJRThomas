@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in back-end development, 90's game engines, philosophy
+- 👀 I’m interested in back-end development, 90's game engines
 - 🌱 I’m currently learning C++, Rust
 - 💞️ I’m looking to collaborate on fun, quick projects
 - 📫 How to reach me ajrthomas1@gmail.com, +44 07592 100 412
