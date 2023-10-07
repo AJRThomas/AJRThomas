@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development, 90's game engines
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me ajrthomas1@gmail.com, +44 07592 100 412
-- 📕 I'm currently reading Lessons in Chemistry
+- 📕 I'm currently reading Demon Copperhead
 - 🎓 I'm currently studying Radians and Calculus
 
 <!---
